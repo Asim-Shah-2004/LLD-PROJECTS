@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "mini-projects/spotify/src/main/java",
+        "mini-projects/google-docs/src/main/java",
+        "mini-projects/notification-system/src/main/java",
+        "mini-projects/zomato/src/main/java"
+    ]
+}
